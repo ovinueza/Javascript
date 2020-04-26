@@ -1,4 +1,4 @@
-# Javascript-Challenge
+# Javascript and DOM manipulation
 
 ## Background
 This project uses information that tracks possible UFO sightings.
